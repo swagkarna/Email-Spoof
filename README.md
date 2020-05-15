@@ -1,2 +1,2 @@
 # Email-Spoof
-Send email to anyone with fake mail
+Upload  this script to  any webosting . I recommend 000webhost.com 
